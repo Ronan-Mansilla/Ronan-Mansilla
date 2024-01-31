@@ -1,0 +1,3 @@
+- Hi, I’m @Ronan-Mansilla
+- I’m interested in the synthesis of programming and the liberal arts
+- I’m currently learning Unity, C#, and Database Management
